@@ -1,15 +1,75 @@
-# 💫 About Me:
-hello im baran guclu and im 18 and im studying software developer.<br>i am very social when it comes to working on code and i know a lot of languages.
+# 👋 Hi, I'm Baran Güçlü
 
+💫 **About Me**  
+Hello! My name is **Baran Güçlü**, I'm **18 years old** and currently studying **Software Development**.  
+I enjoy learning new technologies and building projects that improve my coding skills.  
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=baranguclu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=baranguclu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=baranguclu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I like working with other developers and sharing ideas. Collaboration helps me learn faster and create better solutions.  
+
+🚀 **Goals**
+- Improve my programming skills every day
+- Work on real-world projects
+- Become a professional software developer
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=baranguclu&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack
+
+**Languages**
+- JavaScript
+- HTML5
+- CSS3
+- Python
+- PHP
+
+**Frameworks & Tools**
+- Laravel
+- Git
+- GitHub
+- VS Code
+
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JOUWGEBRUIKERSNAAM&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JOUWGEBRUIKERSNAAM&layout=compact&theme=radical)
+
+
+---
+
+## 📌 Featured Projects
+
+Here are some projects I'm working on or have worked on:
+
+- 🔹 Project 1 – Description of your project
+- 🔹 Project 2 – Description of your project
+- 🔹 Project 3 – Description of your project
+
+*(You can replace these with links to your GitHub repositories.)*
+
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced JavaScript
+- Backend development with PHP & Laravel
+- Working with APIs
+
+
+---
+
+## 📫 Contact
+
+If you want to collaborate or talk about coding:
+
+- GitHub: https://github.com/JOUWGEBRUIKERSNAAM
+
+
+---
+
+⭐ *Thanks for visiting my GitHub profile!*
